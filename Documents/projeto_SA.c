@@ -1,4 +1,9 @@
 // ==========================================
+// WAREHOUSE MONITORING AND SAFETY SYSTEM
+// Autores: Willian & Richard
+// ==========================================
+
+// ==========================================
 // [WILLIAN] DEFINICAO DOS PINOS
 // ==========================================
 
@@ -9,13 +14,3 @@
 #define LED_PIN 9
 
 #define TMP36_PIN A0
-
-// ==========================================
-// [WILLIAN] VARIAVEIS DOS SENSORES
-// ==========================================
-
-float temperature = 0.0;
-
-bool irDetected = false;
-bool motionDetected = false;
-bool irSignalReceived = false;
