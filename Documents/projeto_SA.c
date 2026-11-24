@@ -1,3 +1,6 @@
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>
+
 // ==========================================
 // WAREHOUSE MONITORING AND SAFETY SYSTEM
 // Autores: Willian & Richard
@@ -12,5 +15,3 @@
 
 #define BUZZER_PIN 8
 #define LED_PIN 9
-
-#define TMP36_PIN A0
