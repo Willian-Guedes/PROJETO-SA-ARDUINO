@@ -1,0 +1,7 @@
+// ==========================================
+// [RICHARD] CONFIGURACAO DO LCD
+// ==========================================
+
+#define LCD_ADDRESS 0x27
+
+LiquidCrystal_I2C lcd(LCD_ADDRESS, 16, 2);
