@@ -1,0 +1,5 @@
+Caro professor Sérgio
+
+Aqui está o meu repositório do GitHub com todo o versionamento do código:
+
+https://github.com/Willian-Guedes/PROJETO-SA-ARDUINO
